@@ -22,7 +22,7 @@
   <a href="https://github.com/ameerhamzarashid">
     <img src="https://img.shields.io/badge/GitHub-ameerhamzarashid-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://ds-portfolio-ameerhamzarashid.vercel.app">
+  <a href="https://ds-portfolio-eight.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
