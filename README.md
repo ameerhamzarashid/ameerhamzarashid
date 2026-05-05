@@ -150,21 +150,21 @@ I'm an MSc Data Science graduate, Data Scientist and Data Analyst with hands-on 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameerhamzarashid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzarashid&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ameerhamzarashid&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ameerhamzarashid&theme=tokyonight&utcOffset=0" width="48%" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameerhamzarashid&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ameerhamzarashid&theme=tokyonight" width="48%" alt="Productive Time Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ameerhamzarashid&theme=tokyonight" width="48%" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ameerhamzarashid&theme=tokyonight" width="48%" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameerhamzarashid&theme=tokyonight" width="95%" alt="Profile Summary" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameerhamzarashid&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameerhamzarashid&theme=tokyonight" width="95%" alt="Profile Summary Graph" />
 </p>
 
 ---
