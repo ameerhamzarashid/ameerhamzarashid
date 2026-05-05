@@ -9,6 +9,10 @@
 </h3>
 
 <p align="center">
+  I build data-driven systems using machine learning, analytics, deep learning, dashboards, MLOps, and generative AI.
+</p>
+
+<p align="center">
   <a href="mailto:ameerhamzarashid.uk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -143,25 +147,24 @@ I'm an MSc Data Science graduate, Data Scientist and Data Analyst with hands-on 
 
 ---
 
-## 🎧 Spotify Playing
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vvygg6spui7wg3b5xyuexv2muy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Playing" />
-</p>
-
-> If the Spotify card does not show your account, remove this section or replace the `uid` value with your own Spotify user ID.
-
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameerhamzarashid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ameerhamzarashid&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzarashid&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameerhamzarashid&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameerhamzarashid&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ameerhamzarashid&theme=tokyonight" width="48%" alt="Productive Time Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ameerhamzarashid&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameerhamzarashid&theme=tokyonight" width="95%" alt="Profile Summary Graph" />
 </p>
 
 ---
